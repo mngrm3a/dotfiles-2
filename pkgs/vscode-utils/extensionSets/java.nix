@@ -1,0 +1,16 @@
+{
+  settings = {
+    "[java]" = {
+      "editor.tabSize" = 2;
+
+    };
+    "files.exclude" = {
+      "**/.classpath" = true;
+      "**/.project" = true;
+      "**/.settings" = true;
+      "**/.factorypath" = true;
+
+    };
+  };
+  extensions = [];
+}
